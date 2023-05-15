@@ -15,6 +15,11 @@ numpy = "^1.21.4"
 toml = "^0.10.2"
 pytest = "^7.0.1"
 pytest-cov = "^3.0.0"
+openpyxl = "^3.1.2"
+xlrd = "^2.0.1"
+matplotlib = "^3.7.1"
+seaborn = "^0.12.2"
+nbstripout = "^0.6.1"
 
 [tool.poetry.dev-dependencies]
 black = "^22.3.0"
