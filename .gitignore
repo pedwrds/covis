@@ -31,10 +31,10 @@ ChangeLog
 # Environment file
 .env
 
-# data:
-data/
-!data/.gitkeep
+# # data:
+# data/
+# !data/.gitkeep
 
-# output:
-output/
-!output/.gitkeep
+# # output:
+# output/
+# !output/.gitkeep
