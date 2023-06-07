@@ -1,0 +1,35 @@
+\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}          & London\_weekly\_deaths & \textbf{  R-squared:         } &     0.256   \\
+\textbf{Model:}                  &          OLS           & \textbf{  Adj. R-squared:    } &     0.241   \\
+\textbf{Method:}                 &     Least Squares      & \textbf{  F-statistic:       } &     17.21   \\
+\textbf{Date:}                   &    Sun, 04 Jun 2023    & \textbf{  Prob (F-statistic):} &  0.000130   \\
+\textbf{Time:}                   &        17:45:34        & \textbf{  Log-Likelihood:    } &   -387.64   \\
+\textbf{No. Observations:}       &             52         & \textbf{  AIC:               } &     779.3   \\
+\textbf{Df Residuals:}           &             50         & \textbf{  BIC:               } &     783.2   \\
+\textbf{Df Model:}               &              1         & \textbf{                     } &             \\
+\textbf{Covariance Type:}        &       nonrobust        & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                                 & \textbf{coef} & \textbf{std err} & \textbf{t} & \textbf{P$> |$t$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{Intercept}               &    1404.3943  &      260.424     &     5.393  &         0.000        &      881.317    &     1927.472     \\
+\textbf{London\_weekly\_traffic} &      -0.0004  &        0.000     &    -4.149  &         0.000        &       -0.001    &       -0.000     \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lclc}
+\textbf{Omnibus:}       &  7.253 & \textbf{  Durbin-Watson:     } &    1.364  \\
+\textbf{Prob(Omnibus):} &  0.027 & \textbf{  Jarque-Bera (JB):  } &   11.219  \\
+\textbf{Skew:}          &  0.272 & \textbf{  Prob(JB):          } &  0.00366  \\
+\textbf{Kurtosis:}      &  5.209 & \textbf{  Cond. No.          } & 1.07e+07  \\
+\bottomrule
+\end{tabular}
+%\caption{OLS Regression Results}
+\end{center}
+
+Notes: \newline
+ [1] Standard Errors assume that the covariance matrix of the errors is correctly specified. \newline
+ [2] The condition number is large, 1.07e+07. This might indicate that there are \newline
+ strong multicollinearity or other numerical problems.
