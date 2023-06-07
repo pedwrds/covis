@@ -8,6 +8,3 @@
 # Denote all files that are truly binary and should not be modified.
 *.png binary
 *.jpg binary
-lfs/ filter=lfs diff=lfs merge=lfs -text
-lfs/choro_slider.html filter=lfs diff=lfs merge=lfs -text
-lfs/choro_slider_test.html filter=lfs diff=lfs merge=lfs -text
