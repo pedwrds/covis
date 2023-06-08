@@ -32,6 +32,20 @@ YSJ DSDA DSC6002M Data Visualisation project.
 </body>
 </html>
 
+<html>
+  <head>
+    <script src="jquery.js"></script>
+    <script>
+    $(function(){
+      $("#includedContent").load("lfs/choro_slider.html");
+    });
+    </script>
+  </head>
+
+  <body>
+     <div id="includedContent"></div>
+  </body>
+</html>
 ---
 Documentation for the covis python package is included
 in the [doc](doc) folder - to view the latest version, clone this repo then run
@@ -56,4 +70,4 @@ The data used in this project is available from the Office of National Statistic
 
 Supplementary geojson files from:
 
-[https://martinjc.github.io/UK-GeoJSON/(https://martinjc.github.io/UK-GeoJSON/)]
+[https://martinjc.github.io/UK-GeoJSON/](https://martinjc.github.io/UK-GeoJSON/)
