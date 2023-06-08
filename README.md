@@ -41,7 +41,22 @@ YSJ DSDA DSC6002M Data Visualisation project. -->
 </body>
 </html>
 
+### 4.4 Did age and sex affect one’s susceptibility to death from COVID-19 during the peak of the pandemic?
+![image](figures/age_sex_march_may_2020.png)
 
+
+### 4.5 Was there a relationship between deaths due to COVID-19 and traffic movement?
+![image](figures/traffic_deaths_jointplot_reg.png)
+
+
+### 4.6 How were different geographic regions of the UK affected over time?
+![image](figures/choro.png)
+
+
+
+### 4.7 Can we easily identify periods when deaths due to COVID-19 exceed a given threshold?
+![image](figures/t_plot_0.30_dots.png)
+![image](figures/t_plot_0.15.png)
 
 
 
