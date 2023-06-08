@@ -3,8 +3,8 @@ YSJ DSDA DSC6002M Data Visualisation project.
 
 <br>
 
-![image](figures/rose_causes.png)
-![html](output/rose_causes.html)
+<!-- ![image](figures/rose_causes.png)
+![html](output/rose_causes.html) -->
 
 <html>
 <head>
