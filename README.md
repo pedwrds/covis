@@ -51,6 +51,7 @@ YSJ DSDA DSC6002M Data Visualisation project. -->
 
 ### 4.6 How were different geographic regions of the UK affected over time?
 ![image](figures/choro.png)
+![image](figures/reg_tot_reg_covid_time.png)
 
 
 
