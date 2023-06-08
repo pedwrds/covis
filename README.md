@@ -1,10 +1,18 @@
-# covis
-YSJ DSDA DSC6002M Data Visualisation project.
-
+<!-- # covis
+YSJ DSDA DSC6002M Data Visualisation project. -->
+# Visualisations
 <br>
 
 <!-- ![image](figures/rose_causes.png)
 ![html](output/rose_causes.html) -->
+
+### 4.1 Was there an increase in deaths per week in the UK?
+![image](figures/total_weekly_deaths.png)
+
+
+### 4.2 Were the increased number of weekly deaths due to COVID-19 and how did the percentage of deaths due to COVID-19 change over time?
+![image](figures/weekly_covid_non_covid.png)
+
 
 ### 4.3 Can seasonality be seen in deaths by selected cause?
 <html>
@@ -32,6 +40,10 @@ YSJ DSDA DSC6002M Data Visualisation project.
   </div>
 </body>
 </html>
+
+
+
+
 
 
 <!-- ---
