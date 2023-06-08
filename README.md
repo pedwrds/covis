@@ -42,6 +42,21 @@ YSJ DSDA DSC6002M Data Visualisation project. -->
 </body>
 </html>
 
+<html>
+  <head>
+    <script src="jquery.js"></script>
+    <script>
+    $(function(){
+      $("#includedContent").load("output/rose_causes.html.html");
+    });
+    </script>
+  </head>
+
+  <body>
+     <div id="includedContent"></div>
+  </body>
+</html>
+
 ### 4.4 Did age and sex affect one’s susceptibility to death from COVID-19 during the peak of the pandemic?
 ![image](figures/age_sex_march_may_2020.png)
 
