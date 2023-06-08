@@ -9,7 +9,7 @@ YSJ DSDA DSC6002M Data Visualisation project.
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>covis</title>
+  <!-- <title>covis</title> -->
 </head>
 <body>
   <!-- <div class="tip" markdown="1">
@@ -32,21 +32,8 @@ YSJ DSDA DSC6002M Data Visualisation project.
 </body>
 </html>
 
-<html>
-  <head>
-    <script src="jquery.js"></script>
-    <script>
-    $(function(){
-      $("#includedContent").load("lfs/choro_slider.html");
-    });
-    </script>
-  </head>
 
-  <body>
-     <div id="includedContent"></div>
-  </body>
-</html>
----
+<!-- ---
 Documentation for the covis python package is included
 in the [doc](doc) folder - to view the latest version, clone this repo then run
 the following:
@@ -57,7 +44,7 @@ make html
 ```
 
 Sphinx will build the documentation under the `doc/_build` folder; point your
-browser at `doc/_build/index.html` to view the pages locally.
+browser at `doc/_build/index.html` to view the pages locally. -->
 
 ---
 The data used in this project is available from the Office of National Statistics and is licensed under the Open Government Licence:
