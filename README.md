@@ -54,6 +54,8 @@ YSJ DSDA DSC6002M Data Visualisation project. -->
 ![image](figures/choro.png)
 ![image](figures/reg_tot_reg_covid_time.png)
 
+![html](output/rose_causes.html)
+
 
 
 ### 4.7 Can we easily identify periods when deaths due to COVID-19 exceed a given threshold?
