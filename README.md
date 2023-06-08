@@ -12,9 +12,9 @@ YSJ DSDA DSC6002M Data Visualisation project.
   <title>covis</title>
 </head>
 <body>
-  <div class="tip" markdown="1">
+  <!-- <div class="tip" markdown="1">
     # Have **fun!**
-  </div>
+  </div> -->
   <div>
       <div><script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
           <script type="text/javascript">/**
