@@ -15,7 +15,6 @@ YSJ DSDA DSC6002M Data Visualisation project. -->
 
 
 ### 4.3 Can seasonality be seen in deaths by selected cause?
-<!-- ![image](figures/rose_causes.svg) -->
 <html>
 <head>
   <meta charset="utf-8" />
