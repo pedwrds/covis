@@ -3,8 +3,7 @@ YSJ DSDA DSC6002M Data Visualisation project. -->
 # Visualisations
 <br>
 
-<!-- ![image](figures/rose_causes.png)
-![html](output/rose_causes.html) -->
+### [Interactive plots from 4.6 & 4.7 require cloning of the project repository]
 
 ### 4.1 Was there an increase in deaths per week in the UK?
 ![image](figures/total_weekly_deaths.png)
